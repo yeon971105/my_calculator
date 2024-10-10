@@ -1,3 +1,16 @@
+Metadata-Version: 2.1
+Name: my_calculator_jyy
+Version: 0.0.1
+Summary: A comprehensive calculator module for various mathematical operations
+Home-page: https://github.com/yeon971105/my_calculator
+Author: Jewon Yeon
+Author-email: jewon.yeon@sjsu.edu
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
 # My Calculator
 
 A comprehensive calculator module that supports a variety of mathematical operations including basic arithmetic, advanced calculations, trigonometric functions, logarithmic functions, statistical analysis, and complex number operations.
@@ -12,10 +25,8 @@ A comprehensive calculator module that supports a variety of mathematical operat
 
 ## Installation
 
-You can install the `my_calculator_jyy` package using pip once it's available on PyPI:
+You can install the `my_calculator` package using pip once it's available on PyPI:
 
 ```bash
 pip3 install my_calculator_jyy
 
-## For eample
-from my_calculator.calculator.basic_operations import add
